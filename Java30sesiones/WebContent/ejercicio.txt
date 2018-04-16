@@ -1,0 +1,41 @@
+INCLUIR LOS CAMPOS, TELEFONO, E-MAIL EN LA PARTE DE REGISTRO Y LISTADO 
+DE ANUNCIOS INCLUIR A LA DERECHA DEL ENLACE DE REGISTRO DE ANUNCIO,
+UN ENLACE PARA REGISTRARME COMO USUARIO. PARA ELLO PEDIREMOS AL USUARIO QUE
+INTRODUZCA: 
+NOMBRE, 
+E-MAIL,
+POBLACION
+CONTRASEÑA
+
+Una vez registrado el usuario, le felicitaremos y le mostraremos 
+un enlace para volver al listado de productos
+
+Opcional: realizar un listado de usuarios registrados.
+
+
+Nota: si copiamos proyecto web, l mas comodo para poderlo ejecutar,
+es borrar los servidores que haya en la pestaña Servers.
+
+obcional 2
+Incluir validaciones por javaScript en los formularios para que los
+datos introducidos por el usuario sean validos:
+todos los campos tengan una longitud minima, maxima y no se permiteb 
+introducir caracteres no deseados.
+
+
+
+
+COMPLETAR EL PROYECTO ACTUAL:
+
+PARA QUE LOS ANUNCIOS SE PUEDAN BORRAR EN LA PARTE DE ADMINISTRACION
+
+COMPLETAR LA PARTE DE GESTION DE USUARIO PARA REALIZAR UN LISTADO DE 
+USUARIOS REGISTRADO Y PERMITIR A UN ADMINISTRACION QUE LOS PUEDA BORRAR.
+
+nOTA: USAR JSTL EN LOS LISTADOS
+
+OBCIONALES:
++INCLUIR VALIDACIONES DE JAVASCRIPT PARA EL REGISTRO TANTO DE USUARIO COMO DE ANUNCIOS
+
+AVANZADO:
++PERMITIR MODIFICAR INFORMACIONES EN LOS LISTADOS DE LA ZONA DE ADMINISTRACION.
